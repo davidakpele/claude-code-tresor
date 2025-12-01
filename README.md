@@ -524,12 +524,6 @@ If you find Claude Code Tresor valuable, please consider starring the repository
 
 <div align="center">
 
-*Empowering developers with world-class Claude Code utilities*
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-brightgreen.svg)](standards/)
-
 **🚀 [Get Started Now](#-quick-start) | 📚 [View Examples](examples/) | 🤝 [Contribute](CONTRIBUTING.md)**
 
 </div>
