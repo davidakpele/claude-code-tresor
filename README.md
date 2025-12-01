@@ -513,13 +513,6 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 Special thanks to developers worldwide who believe in sharing knowledge and tools to make development better for everyone.
 
 ---
-
-## ⭐ Star History
-
-If you find Claude Code Tresor valuable, please consider starring the repository! It helps others discover these utilities and motivates continued development.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alirezarezvani/claude-code-tresor&type=Date)](https://star-history.com/#alirezarezvani/claude-code-tresor&Date)
-
 ---
 
 <div align="center">
