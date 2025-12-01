@@ -3,7 +3,7 @@
 > A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/alirezarezvani/claude-code-tresor)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/davidakpele/claude-code-tresor)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-blue.svg)](https://claude.ai/code)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -11,7 +11,7 @@
 **Created**: September 16, 2025
 **Updated**: November 8, 2025 (v2.0.0 - Documentation & Path Fixes)
 **License**: MIT
-**Repository**: https://github.com/alirezarezvani/claude-code-tresor
+**Repository**: https://github.com/davidakpele/claude-code-tresor
 
 ---
 
@@ -42,9 +42,9 @@ Claude Code Tresor is the ultimate collection of **professional-grade utilities*
 - **👥 Team-Friendly**: Includes collaboration guidelines and standards
 - **📖 Well-Documented**: Every component includes detailed examples and usage guides
 
-> **💡 Ecosystem Tip:** Looking for more? Check out the [Claude Code Skill Factory](https://github.com/alirezarezvani/claude-code-skill-factory) to build custom skills, or browse the [Claude Skills Library](https://github.com/alirezarezvani/claude-skills) for pre-built professional domain packages. See [Related Projects](#-related-projects--ecosystem) for details.
+> **💡 Ecosystem Tip:** Looking for more? Check out the [Claude Code Skill Factory](https://github.com/davidakpele/claude-code-skill-factory) to build custom skills, or browse the [Claude Skills Library](https://github.com/davidakpele/claude-skills) for pre-built professional domain packages. See [Related Projects](#-related-projects--ecosystem) for details.
 >
-> **📖 [Complete Augmentation Guide](https://gist.github.com/alirezarezvani/a0f6e0a984d4a4adc4842bbe124c5935)** - Comprehensive guide with FAQs, use cases, and installation instructions
+> **📖 [Complete Augmentation Guide](https://gist.github.com/davidakpele/a0f6e0a984d4a4adc4842bbe124c5935)** - Comprehensive guide with FAQs, use cases, and installation instructions
 
 ---
 
@@ -129,7 +129,7 @@ Extensive collection of additional utilities in the `sources/` directory:
 
 Looking to extend your Claude Code capabilities further? Check out these companion repositories:
 
-### 🏭 [Claude Code Skill Factory](https://github.com/alirezarezvani/claude-code-skill-factory)
+### 🏭 [Claude Code Skill Factory](https://github.com/davidakpele/claude-code-skill-factory)
 **Build your own custom Skills and Agents at scale**
 
 A comprehensive toolkit for generating production-ready Claude Skills and Agents without starting from scratch. Perfect when you need specialized capabilities beyond what's available in pre-built collections.
@@ -145,7 +145,7 @@ A comprehensive toolkit for generating production-ready Claude Skills and Agents
 
 **Use Case:** "I need a skill that analyzes our company's specific Terraform patterns" → Use Skill Factory to generate it
 
-### 📚 [Claude Skills Library](https://github.com/alirezarezvani/claude-skills)
+### 📚 [Claude Skills Library](https://github.com/davidakpele/claude-skills)
 **Production-ready skill packages for professional domains**
 
 A curated collection of specialized skill packages combining best practices, analysis tools, and strategic frameworks for various professional roles. Deploy expert-level capabilities immediately.
@@ -174,7 +174,7 @@ A curated collection of specialized skill packages combining best practices, ana
 
 **New to Claude Code augmentation?** Read the comprehensive guide with FAQs, installation instructions, and detailed use cases:
 
-**[📖 Complete Augmentation Guide](https://gist.github.com/alirezarezvani/a0f6e0a984d4a4adc4842bbe124c5935)** (GitHub Gist)
+**[📖 Complete Augmentation Guide](https://gist.github.com/davidakpele/a0f6e0a984d4a4adc4842bbe124c5935)** (GitHub Gist)
 
 This guide answers:
 - What is Claude Code augmentation and why should I use it?
@@ -191,8 +191,8 @@ This guide answers:
 | Your Need | Use This Repository |
 |-----------|-------------------|
 | **Ready-to-use utilities** (scaffolding, code review, testing, docs) | **Claude Code Tresor** (this repo) |
-| **Build custom skills** for your specific domain/tech stack | [**Skill Factory**](https://github.com/alirezarezvani/claude-code-skill-factory) |
-| **Deploy pre-built expertise** for professional roles | [**Skills Library**](https://github.com/alirezarezvani/claude-skills) |
+| **Build custom skills** for your specific domain/tech stack | [**Skill Factory**](https://github.com/davidakpele/claude-code-skill-factory) |
+| **Deploy pre-built expertise** for professional roles | [**Skills Library**](https://github.com/davidakpele/claude-skills) |
 
 **Complete Workflow Example:**
 1. **Start here** (Claude Code Tresor) → Install 8 skills + 8 agents + 4 commands for development workflows
@@ -226,7 +226,7 @@ All three repositories are **MIT licensed** and maintained by Alireza Rezvani.
 
 ```bash
 # Clone the repository
-git clone https://github.com/alirezarezvani/claude-code-tresor.git
+git clone https://github.com/davidakpele/claude-code-tresor.git
 cd claude-code-tresor
 
 # Run the installation script (installs skills + agents + commands)
