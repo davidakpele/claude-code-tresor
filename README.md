@@ -407,14 +407,6 @@ claude-code-tresor/
 3. **Templates**: Use `standards/templates/` for consistency
 4. **Training**: Share `examples/` with your team
 
-### 🔧 Power User?
-1. **Customize**: Adapt templates in `prompts/` for your needs
-2. **Extend**: Explore additional utilities in `sources/`
-3. **Build Custom**: Use [Skill Factory](https://github.com/alirezarezvani/claude-code-skill-factory) to generate proprietary skills
-4. **Add Expertise**: Browse [Skills Library](https://github.com/alirezarezvani/claude-skills) for domain packages (marketing, product, engineering)
-5. **Contribute**: Add your own utilities following `CONTRIBUTING.md`
-6. **Automate**: Build custom workflows using the utilities
-
 ---
 
 ## 🚀 Updates & Maintenance
@@ -479,11 +471,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - **⏱️ Installation Time**: < 2 minutes
 - **📈 Version**: 2.0.0 (Major update: Skills layer!)
 
-**Complete Ecosystem:**
-- **🏭 [Skill Factory](https://github.com/alirezarezvani/claude-code-skill-factory)**: Generate unlimited custom skills and agents
-- **📚 [Skills Library](https://github.com/alirezarezvani/claude-skills)**: 26+ pre-built professional domain packages (Marketing, Product, Engineering, PM, C-Level)
-- **🔄 Active Development**: All three repositories continuously updated
-- **⚖️ License**: MIT across all projects
 
 ---
 
@@ -527,26 +514,6 @@ Special thanks to developers worldwide who believe in sharing knowledge and tool
 
 ---
 
-## 📞 Support & Community
-
-### Get Help
-- 📋 **Issues**: [GitHub Issues](https://github.com/alirezarezvani/claude-code-tresor/issues) for bugs and feature requests
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/alirezarezvani/claude-code-tresor/discussions) for questions and ideas
-- 📖 **Documentation**: Browse `examples/` directory for detailed guides
-- 🔍 **Search**: Use repository search to find specific utilities
-
-### Connect
-- 🐦 **Twitter**: [@alirezarezvani](https://twitter.com/alirezarezvani)
-- 💼 **LinkedIn**: [Alireza Rezvani](https://linkedin.com/in/alirezarezvani)
-- 🌐 **Website**: [https://alirezarezvani.com] (Portfolio Website)
-- 🌐 **Claude Code Tutorials and Guides**: [https://medium.com/@alirezarezvani] (Medium Blog)
-### Professional Support
-For professional support, custom utilities, or team training:
-- 📧 **Email**: [Your professional email]
-- 💼 **Consulting**: Available for custom development and team training
-
----
-
 ## ⭐ Star History
 
 If you find Claude Code Tresor valuable, please consider starring the repository! It helps others discover these utilities and motivates continued development.
@@ -556,8 +523,6 @@ If you find Claude Code Tresor valuable, please consider starring the repository
 ---
 
 <div align="center">
-
-**Made with ❤️ by [Alireza Rezvani](https://github.com/alirezarezvani)**
 
 *Empowering developers with world-class Claude Code utilities*
 
